@@ -8,10 +8,10 @@ TITLE = '# READMEOW\n'
 DESC = f'{TITLE}\nA self-rewriting README powered by GitHub Actions to display cat gifs.\n\n'
 # giphy params
 URL = f'https://api.giphy.com/v1/gifs/search'
-SEARCH_LIMIT = 12
+SEARCH_LIMIT = 1
 URL_PARAMS = params = {
     "q": 'cat',
-    "api_key": "xeadz4TekOSbzl73oFEwGb30NZPgQ0lA",
+    "api_key": environ.get('GIPHY_API_KEY'),
     "limit": SEARCH_LIMIT
 }
 
