@@ -11,7 +11,7 @@ URL = f'https://api.giphy.com/v1/gifs/search'
 SEARCH_LIMIT = 12
 URL_PARAMS = params = {
     "q": 'cat',
-    "api_key": environ.get('GIPHY_API_KEY'),
+    "api_key": "xeadz4TekOSbzl73oFEwGb30NZPgQ0lA",
     "limit": SEARCH_LIMIT
 }
 
