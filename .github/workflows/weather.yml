@@ -17,7 +17,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           OPEN_WEATHER_TOKEN: ${{secrets.OPEN_WEATHER_TOKEN}}
-          CITY: "Wellington, New Zealand"
+          CITY: "Yogyakarta, Indonesia"
       - name: "🛠️ Push changes to GitHub"
         run:
             git config --global user.email readme-bot@example.com && git config --global user.name readme-bot;
