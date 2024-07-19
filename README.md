@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![Peace Out Lol GIF by America's Funniest Home Videos](https://media4.giphy.com/media/l4KibK3JwaVo0CjDO/200.gif?cid=9acd02daha7xjulbuwdqe79740rqsiau34qj818hgmuuhqt4&ep=v1_gifs_search&rid=200.gif&ct=g)
+![Peace Out Lol GIF by America's Funniest Home Videos](https://media4.giphy.com/media/l4KibK3JwaVo0CjDO/200.gif?cid=9acd02daeqmmgn484iffiiv9o8v39itidiox084lh5iozdk4&ep=v1_gifs_search&rid=200.gif&ct=g)
