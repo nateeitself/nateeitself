@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![Im Ready Lets Go GIF by Leroy Patterson](https://media2.giphy.com/media/CjmvTCZf2U3p09Cn0h/200.gif?cid=9acd02da24jhoxnq98rrb899qp3efayf8fedsvgi6mkths27&ep=v1_gifs_search&rid=200.gif&ct=g)
+![Im Ready Lets Go GIF by Leroy Patterson](https://media2.giphy.com/media/CjmvTCZf2U3p09Cn0h/200.gif?cid=9acd02daf6oyfgl8g9jp3dxa0dh0xd0vzhxx20eeiahfykla&ep=v1_gifs_search&rid=200.gif&ct=g)
