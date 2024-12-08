@@ -1,43 +1,7 @@
 # READMEOW
 
-A self
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="keywords" content="weather, world, openweathermap, weather, layer" />
-  <meta name="description" content="A layer with current weather conditions in cities for world wide" />
-  <meta name="domain" content="openweathermap.org" />
-  <meta http-equiv="pragma" content="no-cache" />
-  <meta http-equiv="Expires" content="-1" />
-</head>
-<body>
-  <div style="font-size: medium; font-weight: bold; margin-bottom: 0px;">Yogyakarta</div>
-  <div style="float: left; width: 130px;">
-    <div style="display: block; clear: left;">
-      <div style="float: left;" title="Titel">
-        <img height="45" width="45" style="border: medium none; width: 45px; height: 45px; background: url(&quot;http://openweathermap.org/img/w/04n.png&quot;) repeat scroll 0% 0% transparent;" alt="title" src="http://openweathermap.org/images/transparent.png"/>
-      </div>
-      <div style="float: left;">
-        <div style="display: block; clear: left; font-size: medium; font-weight: bold; padding: 0pt 3pt;" title="Current Temperature">24.61°C</div>
-        <div style="display: block; width: 85px; overflow: visible;"></div>
-      </div>
-    </div>
-    <div style="display: block; clear: left; font-size: small;">Clouds: 100%</div>
-    <div style="display: block; clear: left; color: gray; font-size: x-small;" >Humidity: 94%</div>
-    <div style="display: block; clear: left; color: gray; font-size: x-small;" >Wind: 1.31 m/s</div>
-    <div style="display: block; clear: left; color: gray; font-size: x-small;" >Pressure: 1008hPa</div>
-  </div>
-  <div style="display: block; clear: left; color: gray; font-size: x-small;">
-    <a href="http://openweathermap.org/city/1621177?utm_source=openweathermap&utm_medium=widget&utm_campaign=html_old" target="_blank">More..</a>
-  </div>
-  
-</body>
-</html>
-# READMEOW
-
 A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![Im Ready Lets Go GIF by Leroy Patterson](https://media2.giphy.com/media/CjmvTCZf2U3p09Cn0h/200.gif?cid=9acd02das65la7k4l2j99zh9js1rvj5i8viiu306q5d9uagj&ep=v1_gifs_search&rid=200.gif&ct=g)Last Updated: Sun Dec  8 17:30:28 UTC 2024
+![Im Ready Lets Go GIF by Leroy Patterson](https://media2.giphy.com/media/CjmvTCZf2U3p09Cn0h/200.gif?cid=9acd02dasq8f4ki3pwhl3naor51f84v7z4q2qzglir6y86qs&ep=v1_gifs_search&rid=200.gif&ct=g)
