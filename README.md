@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![Cat Kitten GIF by Demic](https://media1.giphy.com/media/v1.Y2lkPTlhY2QwMmRhdGUxZDhtNWlicmp2ZHU2aGk0bHdicDFvdWduOWp1OHpsZTRnMGowcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/200.gif)
+![Cat Kitten GIF by Demic](https://media1.giphy.com/media/v1.Y2lkPTlhY2QwMmRhaTE5ajdjYWRkbXFzcTR0dzJ4aGdka3VzZnRyZ2J1OXlrOThmMjN0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/200.gif)
