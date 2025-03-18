@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![Cat GIF by sheepfilms](https://media3.giphy.com/media/v1.Y2lkPTlhY2QwMmRhMjk1aHd6MG5pY2lwbGVmNzJ1cG50bXA5cGIwYnIzb3JlZzJyeG5rcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zZMTVkTeEfeEg/200.gif)
+![Cat GIF by sheepfilms](https://media3.giphy.com/media/v1.Y2lkPTlhY2QwMmRhcmlvcjNodmZrZzZmcDFjdmZrbzFibGZsOWg3N3dmbGVnMWt4dXNsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zZMTVkTeEfeEg/200.gif)
