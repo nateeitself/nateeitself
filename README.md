@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![Bored Cat GIF](https://media4.giphy.com/media/v1.Y2lkPTlhY2QwMmRhZW5hc3h0c2pkZm9ibTJuZTQyN2VlYnpyb3J2c2piZjBtOW1wcnB6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlvseq9yvZhba/200.gif)
+![Bored Cat GIF](https://media4.giphy.com/media/v1.Y2lkPTlhY2QwMmRhN3doOWhmODY2YXpwbWMwb3Fldzh2cmdpNm90cXh5czV4ZWsyZmJ3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlvseq9yvZhba/200.gif)
