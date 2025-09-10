@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![White Cat Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTlhY2QwMmRhZDk3azM3a3o4bjZ6Y2w4NmF3bXI3NWRldnpvcW13MDNuemF6cWg2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/200.gif)
+![The Real Housewives Of Beverly Hills Cat GIF by MOODMAN](https://media0.giphy.com/media/v1.Y2lkPTlhY2QwMmRhb3E1c3c5bXNqem03YnhwdjdmMzk4Mm9mNm9memFyNDV6cWZwMDYydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JRE3AvLsSRXg360F6l/200.gif)
