@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![In Love Cat GIF](https://media3.giphy.com/media/v1.Y2lkPTlhY2QwMmRhbjYzMGZlMXRxeGRzc2I4bDIwazQ2cmN0eXdqcTNuNTNmbDFyamM1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/200.gif)
+![In Love Cat GIF](https://media3.giphy.com/media/v1.Y2lkPTlhY2QwMmRhemR5ZjZiNTZ3NWU5MXJzcWVrbG1hY3VrbWxpYXUxeThuZ2JuOTd0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/200.gif)
