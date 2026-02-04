@@ -4,4 +4,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![ariana grande love GIF](https://media3.giphy.com/media/v1.Y2lkPTlhY2QwMmRhbWkxZjFldzBucHhheXF0aW95aG13dDE5amlobWZsbnViZHN3aTZ6byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QYu3oTIZWdcfm/200.gif)
+![Cat GIF](https://media0.giphy.com/media/v1.Y2lkPTlhY2QwMmRhampjaXd4enRlZDQ1OHJ5azE5c292NW1xaHNjbXh5bzA3enU0ZXJzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m6aIggqT7oB4A/200.gif)
