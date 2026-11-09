@@ -16,6 +16,42 @@ A self
   <div style="float: left; width: 130px;">
     <div style="display: block; clear: left;">
       <div style="float: left;" title="Titel">
+        <img height="45" width="45" style="border: medium none; width: 45px; height: 45px; background: url(&quot;http://openweathermap.org/img/w/04n.png&quot;) repeat scroll 0% 0% transparent;" alt="title" src="http://openweathermap.org/images/transparent.png"/>
+      </div>
+      <div style="float: left;">
+        <div style="display: block; clear: left; font-size: medium; font-weight: bold; padding: 0pt 3pt;" title="Current Temperature">23.82°C</div>
+        <div style="display: block; width: 85px; overflow: visible;"></div>
+      </div>
+    </div>
+    <div style="display: block; clear: left; font-size: small;">Clouds: 97%</div>
+    <div style="display: block; clear: left; color: gray; font-size: x-small;" >Humidity: 81%</div>
+    <div style="display: block; clear: left; color: gray; font-size: x-small;" >Wind: 2.46 m/s</div>
+    <div style="display: block; clear: left; color: gray; font-size: x-small;" >Pressure: 1011hPa</div>
+  </div>
+  <div style="display: block; clear: left; color: gray; font-size: x-small;">
+    <a href="http://openweathermap.org/city/1621177?utm_source=openweathermap&utm_medium=widget&utm_campaign=html_old" target="_blank">More..</a>
+  </div>
+  
+</body>
+</html>
+# READMEOW
+
+A self
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="keywords" content="weather, world, openweathermap, weather, layer" />
+  <meta name="description" content="A layer with current weather conditions in cities for world wide" />
+  <meta name="domain" content="openweathermap.org" />
+  <meta http-equiv="pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="-1" />
+</head>
+<body>
+  <div style="font-size: medium; font-weight: bold; margin-bottom: 0px;">Yogyakarta</div>
+  <div style="float: left; width: 130px;">
+    <div style="display: block; clear: left;">
+      <div style="float: left;" title="Titel">
         <img height="45" width="45" style="border: medium none; width: 45px; height: 45px; background: url(&quot;http://openweathermap.org/img/w/10d.png&quot;) repeat scroll 0% 0% transparent;" alt="title" src="http://openweathermap.org/images/transparent.png"/>
       </div>
       <div style="float: left;">
@@ -2632,4 +2668,4 @@ A self-rewriting README powered by GitHub Actions to display cat gifs.
 
 ## Cats
 
-![High Five Ai GIF](https://media4.giphy.com/media/v1.Y2lkPTlhY2QwMmRhZjkyeGJrdzd0eGJwa2trZHhrOXo1ZXc2OWNsdTRzNmRocHc1MGpvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/774uK11mxE3W0cjE8L/200.gif)Last Updated: Sat Oct 24 19:48:05 UTC 2026Last Updated: Sat Oct 24 21:59:03 UTC 2026Last Updated: Sun Oct 25 00:10:44 UTC 2026Last Updated: Sun Oct 25 04:40:15 UTC 2026Last Updated: Sun Oct 25 09:24:51 UTC 2026Last Updated: Sun Oct 25 13:48:45 UTC 2026Last Updated: Sun Oct 25 17:15:36 UTC 2026Last Updated: Sun Oct 25 19:43:20 UTC 2026Last Updated: Sun Oct 25 22:04:38 UTC 2026Last Updated: Mon Oct 26 00:13:50 UTC 2026Last Updated: Mon Oct 26 04:53:05 UTC 2026Last Updated: Mon Oct 26 10:39:34 UTC 2026Last Updated: Mon Oct 26 16:59:11 UTC 2026Last Updated: Mon Oct 26 21:32:02 UTC 2026Last Updated: Tue Oct 27 00:44:24 UTC 2026Last Updated: Tue Oct 27 05:39:35 UTC 2026Last Updated: Tue Oct 27 10:59:20 UTC 2026Last Updated: Tue Oct 27 16:23:50 UTC 2026Last Updated: Tue Oct 27 20:49:03 UTC 2026Last Updated: Wed Oct 28 00:04:28 UTC 2026Last Updated: Wed Oct 28 05:29:37 UTC 2026Last Updated: Wed Oct 28 11:32:15 UTC 2026Last Updated: Wed Oct 28 17:18:37 UTC 2026Last Updated: Wed Oct 28 21:43:58 UTC 2026Last Updated: Thu Oct 29 01:16:01 UTC 2026Last Updated: Thu Oct 29 07:11:53 UTC 2026Last Updated: Thu Oct 29 14:20:59 UTC 2026Last Updated: Thu Oct 29 19:43:24 UTC 2026Last Updated: Thu Oct 29 23:36:49 UTC 2026Last Updated: Fri Oct 30 02:55:37 UTC 2026Last Updated: Fri Oct 30 09:37:10 UTC 2026Last Updated: Fri Oct 30 16:11:56 UTC 2026Last Updated: Fri Oct 30 20:47:54 UTC 2026Last Updated: Sat Oct 31 00:09:20 UTC 2026Last Updated: Sat Oct 31 05:36:51 UTC 2026Last Updated: Sat Oct 31 11:12:22 UTC 2026Last Updated: Sat Oct 31 16:06:17 UTC 2026Last Updated: Sat Oct 31 19:55:13 UTC 2026Last Updated: Sat Oct 31 23:04:14 UTC 2026Last Updated: Sun Nov  1 02:06:59 UTC 2026Last Updated: Sun Nov  1 09:08:52 UTC 2026Last Updated: Sun Nov  1 15:59:21 UTC 2026Last Updated: Sun Nov  1 20:25:03 UTC 2026Last Updated: Sun Nov  1 23:44:05 UTC 2026Last Updated: Mon Nov  2 02:45:30 UTC 2026Last Updated: Mon Nov  2 10:02:30 UTC 2026Last Updated: Mon Nov  2 20:15:59 UTC 2026Last Updated: Tue Nov  3 02:24:43 UTC 2026Last Updated: Tue Nov  3 09:48:49 UTC 2026Last Updated: Tue Nov  3 17:22:17 UTC 2026Last Updated: Tue Nov  3 22:24:12 UTC 2026Last Updated: Wed Nov  4 02:30:51 UTC 2026Last Updated: Wed Nov  4 17:33:56 UTC 2026Last Updated: Wed Nov  4 22:50:13 UTC 2026Last Updated: Thu Nov  5 02:54:14 UTC 2026Last Updated: Thu Nov  5 10:13:54 UTC 2026Last Updated: Thu Nov  5 18:03:33 UTC 2026Last Updated: Thu Nov  5 23:33:17 UTC 2026Last Updated: Fri Nov  6 03:36:54 UTC 2026Last Updated: Fri Nov  6 11:27:53 UTC 2026Last Updated: Fri Nov  6 18:16:18 UTC 2026Last Updated: Fri Nov  6 23:15:30 UTC 2026Last Updated: Sat Nov  7 02:52:47 UTC 2026Last Updated: Sat Nov  7 09:25:51 UTC 2026Last Updated: Sat Nov  7 15:49:16 UTC 2026Last Updated: Sat Nov  7 19:40:41 UTC 2026Last Updated: Sat Nov  7 23:01:14 UTC 2026Last Updated: Sun Nov  8 02:18:58 UTC 2026Last Updated: Sun Nov  8 09:11:40 UTC 2026Last Updated: Sun Nov  8 15:58:29 UTC 2026Last Updated: Sun Nov  8 20:19:52 UTC 2026Last Updated: Sun Nov  8 23:48:49 UTC 2026Last Updated: Mon Nov  9 03:02:33 UTC 2026
+![High Five Ai GIF](https://media4.giphy.com/media/v1.Y2lkPTlhY2QwMmRhZjkyeGJrdzd0eGJwa2trZHhrOXo1ZXc2OWNsdTRzNmRocHc1MGpvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/774uK11mxE3W0cjE8L/200.gif)Last Updated: Sat Oct 24 19:48:05 UTC 2026Last Updated: Sat Oct 24 21:59:03 UTC 2026Last Updated: Sun Oct 25 00:10:44 UTC 2026Last Updated: Sun Oct 25 04:40:15 UTC 2026Last Updated: Sun Oct 25 09:24:51 UTC 2026Last Updated: Sun Oct 25 13:48:45 UTC 2026Last Updated: Sun Oct 25 17:15:36 UTC 2026Last Updated: Sun Oct 25 19:43:20 UTC 2026Last Updated: Sun Oct 25 22:04:38 UTC 2026Last Updated: Mon Oct 26 00:13:50 UTC 2026Last Updated: Mon Oct 26 04:53:05 UTC 2026Last Updated: Mon Oct 26 10:39:34 UTC 2026Last Updated: Mon Oct 26 16:59:11 UTC 2026Last Updated: Mon Oct 26 21:32:02 UTC 2026Last Updated: Tue Oct 27 00:44:24 UTC 2026Last Updated: Tue Oct 27 05:39:35 UTC 2026Last Updated: Tue Oct 27 10:59:20 UTC 2026Last Updated: Tue Oct 27 16:23:50 UTC 2026Last Updated: Tue Oct 27 20:49:03 UTC 2026Last Updated: Wed Oct 28 00:04:28 UTC 2026Last Updated: Wed Oct 28 05:29:37 UTC 2026Last Updated: Wed Oct 28 11:32:15 UTC 2026Last Updated: Wed Oct 28 17:18:37 UTC 2026Last Updated: Wed Oct 28 21:43:58 UTC 2026Last Updated: Thu Oct 29 01:16:01 UTC 2026Last Updated: Thu Oct 29 07:11:53 UTC 2026Last Updated: Thu Oct 29 14:20:59 UTC 2026Last Updated: Thu Oct 29 19:43:24 UTC 2026Last Updated: Thu Oct 29 23:36:49 UTC 2026Last Updated: Fri Oct 30 02:55:37 UTC 2026Last Updated: Fri Oct 30 09:37:10 UTC 2026Last Updated: Fri Oct 30 16:11:56 UTC 2026Last Updated: Fri Oct 30 20:47:54 UTC 2026Last Updated: Sat Oct 31 00:09:20 UTC 2026Last Updated: Sat Oct 31 05:36:51 UTC 2026Last Updated: Sat Oct 31 11:12:22 UTC 2026Last Updated: Sat Oct 31 16:06:17 UTC 2026Last Updated: Sat Oct 31 19:55:13 UTC 2026Last Updated: Sat Oct 31 23:04:14 UTC 2026Last Updated: Sun Nov  1 02:06:59 UTC 2026Last Updated: Sun Nov  1 09:08:52 UTC 2026Last Updated: Sun Nov  1 15:59:21 UTC 2026Last Updated: Sun Nov  1 20:25:03 UTC 2026Last Updated: Sun Nov  1 23:44:05 UTC 2026Last Updated: Mon Nov  2 02:45:30 UTC 2026Last Updated: Mon Nov  2 10:02:30 UTC 2026Last Updated: Mon Nov  2 20:15:59 UTC 2026Last Updated: Tue Nov  3 02:24:43 UTC 2026Last Updated: Tue Nov  3 09:48:49 UTC 2026Last Updated: Tue Nov  3 17:22:17 UTC 2026Last Updated: Tue Nov  3 22:24:12 UTC 2026Last Updated: Wed Nov  4 02:30:51 UTC 2026Last Updated: Wed Nov  4 17:33:56 UTC 2026Last Updated: Wed Nov  4 22:50:13 UTC 2026Last Updated: Thu Nov  5 02:54:14 UTC 2026Last Updated: Thu Nov  5 10:13:54 UTC 2026Last Updated: Thu Nov  5 18:03:33 UTC 2026Last Updated: Thu Nov  5 23:33:17 UTC 2026Last Updated: Fri Nov  6 03:36:54 UTC 2026Last Updated: Fri Nov  6 11:27:53 UTC 2026Last Updated: Fri Nov  6 18:16:18 UTC 2026Last Updated: Fri Nov  6 23:15:30 UTC 2026Last Updated: Sat Nov  7 02:52:47 UTC 2026Last Updated: Sat Nov  7 09:25:51 UTC 2026Last Updated: Sat Nov  7 15:49:16 UTC 2026Last Updated: Sat Nov  7 19:40:41 UTC 2026Last Updated: Sat Nov  7 23:01:14 UTC 2026Last Updated: Sun Nov  8 02:18:58 UTC 2026Last Updated: Sun Nov  8 09:11:40 UTC 2026Last Updated: Sun Nov  8 15:58:29 UTC 2026Last Updated: Sun Nov  8 20:19:52 UTC 2026Last Updated: Sun Nov  8 23:48:49 UTC 2026Last Updated: Mon Nov  9 03:02:33 UTC 2026Last Updated: Mon Nov  9 11:19:18 UTC 2026
